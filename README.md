@@ -17,9 +17,13 @@ Este script em Python utiliza as bibliotecas Pandas e smtplib para automatizar o
   - Atualize o caminho_do_csv no código para o caminho do seu arquivo CSV.
   - Substitua 'remetente' e 'Senha do email' nas configurações do e-mail.
 
+## Observações 
+- Certifique-se de ativar a opção "Acesso a apps menos seguros" na conta de e-mail se estiver usando o Gmail.
+- Utilize senhas de aplicativo para autenticação se estiver usando autenticação em dois fatores.
+
 ## Execução 
  Execute o script Python:
  ```bash
  python script_email.py
 
- 
+
