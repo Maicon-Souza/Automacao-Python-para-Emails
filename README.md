@@ -4,7 +4,7 @@ Este script em Python utiliza as bibliotecas Pandas e smtplib para automatizar o
 
 ## Pré-requisitos
 
-- Python 3.x
+- Python 3.0
 - Biblioteca Pandas
   ```bash
   pip install pandas
